@@ -21,8 +21,8 @@ def bonus
   }
 
   #code your solution here:
-  bonus[:montague][:hero][:status] = "dead"
-  bonus[:capulet][:heroine][:status] = "dead"
+  [:montague][:hero][:status] = "dead"
+  [:capulet][:heroine][:status] = "dead"
 
 
 
